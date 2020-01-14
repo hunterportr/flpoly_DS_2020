@@ -1,23 +1,26 @@
-## First Name Last Name
-
+## Hunter Porter
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- FIN 2001
 
-- Course 2
+- IDC 4943
 
-- Course 3
+- ESI 4513
 
-- Course 4
+- COP 2073
+
+- MAN 4594.
+
+- MAN 4633
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Games
 
-- Thing 2
+- Music
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
