@@ -3,17 +3,15 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- FIN 2001
 
-- IDC 4943
-
-- ESI 4513
-
-- COP 2073
-
-- MAN 4594.
-
-- MAN 4633
+|Prefix |Number |_Name_ |Credits  |
+|:------|:------|:----|:--------|
+|**FIN** |**2001** |_Business Finance_ |3  |
+|**IDC** |**4943** |_Capestone II_ |3  |
+|**ESI** |**4513** |_Intelligent Mobility_ |3  |
+|**COP** |**2073** |_Intro to data science_ |3  |
+|**MAN** |**4594** |_Reverse Logistics_ |3  |
+|**MAN** |**4633** |_Strategic Manegement_ |3  |
 
 **Hobbies:**
 
